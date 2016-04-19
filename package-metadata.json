@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/itosaka/xan-site-sublime-plugin.git",
+    "platforms": ["*"],
+    "version": "1.0.0",
+    "description": "Plugin to format Site platform ",
+    "dependencies": [],
+    "sublime_text": "*"
+}
