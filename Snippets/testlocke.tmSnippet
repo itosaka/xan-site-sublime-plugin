@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>content</key>
-    <string>{% blocke ${1:name} %}$0{% endblocke %}</string>
+    <string>{% testlocke ${1:name} %}$0{% endtestlocke %}</string>
     <key>name</key>
-    <string>block</string>
+    <string>testlocke</string>
     <key>scope</key>
     <string>text.html.twig</string>
     <key>tabTrigger</key>
-    <string>block</string>
+    <string>testlocke</string>
     <key>uuid</key>
     <string>D8303993-87B8-4A11-8F62-B46985DADE7F</string>
 </dict>
