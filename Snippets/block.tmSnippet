@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>content</key>
-    <string>{% block ${1:name} %}$0{% endblock %}</string>
+    <string>{% blocke ${1:name} %}$0{% endblocke %}</string>
     <key>name</key>
     <string>block</string>
     <key>scope</key>

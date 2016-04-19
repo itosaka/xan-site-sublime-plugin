@@ -1,0 +1,11 @@
+{
+	"name": "xan-site-sublime-plugin",
+	"details": "https://github.com/itosaka/xan-site-sublime-plugin",
+	"releases": [
+		{
+			"sublime_text": "*",
+			"platforms": ["osx", "linux"],
+			"tags": true
+		}
+	]
+}
