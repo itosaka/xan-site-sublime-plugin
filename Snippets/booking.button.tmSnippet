@@ -4,13 +4,13 @@
 <plist version="1.0">
 <dict>
     <key>content</key>
-    <string>[contents:categories  display="grid" limit="10" paginations="1" id_category=""]  </string>
+    <string>[booking:button ]  </string>
     <key>name</key>
-    <string>contents:categories</string>
+    <string>booking:button</string>
     <key>scope</key>
     <string>text.html.twig</string>
     <key>tabTrigger</key>
-    <string>contents:categories</string>
+    <string>booking:button</string>
     <key>uuid</key>
     <string>D8303993-87B8-4A11-8F62-B46985DADE7F</string>
 </dict>
